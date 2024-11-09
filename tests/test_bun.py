@@ -1,6 +1,4 @@
 import unittest
-from ..praktikum.bun import Bun
-
 import pytest
 from ..praktikum.bun import Bun
 

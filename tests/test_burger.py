@@ -1,5 +1,4 @@
 import unittest
-from unittest.mock import MagicMock
 from ..praktikum.burger import Burger
 from ..praktikum.bun import Bun
 from ..praktikum.ingredient import Ingredient
